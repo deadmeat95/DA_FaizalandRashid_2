@@ -27,9 +27,9 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 <html>
 <body>
 
-<h1>Faizal and Rashid first website</h1>
+<h1>My First Heading</h1>
 
-<p>Welcome to Singapore!</p>
+<p>My first paragraph.</p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHrNB1FljIFEDVp3YKTxpswXX3D2Yy2qkoEw&usqp=CAU" alt="Girl in a jacket" width="500" height="600">
 </body>
 </html>
